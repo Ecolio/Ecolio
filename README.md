@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
   <h2 style="margin-right: 10px;">Hi  👋, welcome to Ecolio's github</h2>
-  <img src="https://github.com/Ecolio/Ecolio/assets/15341716/8d26edaf-9098-42f4-b6a1-4f97ecc06b79" width="30%" style="max-width: 150px;">
+  <img src="https://github.com/Ecolio/Ecolio/assets/15341716/8d26edaf-9098-42f4-b6a1-4f97ecc06b79" width="20%" style="max-width: 150px;">
 </div>
 
 
