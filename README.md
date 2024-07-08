@@ -21,8 +21,8 @@
     <td><img src="https://github.com/Ecolio/Ecolio/assets/15341716/9dc42cdb-3fd4-4136-af2c-d535da12bd1f" width="250" /></td>
   </tr>
   <tr>
-    <td align="center">V2.2384</td>
-    <td align="center">V0.1234</td>
+    <td align="center">Updated with a bus can</td>
+    <td align="center">Updated with Orbiter extruder and custom base electronic panel</td>
   </tr>  
   <tr>
     <td align="center"><a href="https://www.reddit.com/r/voroncorexy/comments/qqr41u/serial_request_for_two_voron_v24_350mm_discord/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button">V2.2384</a></td>
