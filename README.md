@@ -1,8 +1,8 @@
-## Hi  👋
+## Hi  👋, welcome to Ecolio's github
 
 
 <p align="center">
-  <img src="https://github.com/Ecolio/Ecolio/assets/15341716/ce3b45a1-daac-415c-b81b-cd7d77aed5d8" width="50%" style="max-width: 150px;">
+  <img src="https://github.com/Ecolio/Ecolio/assets/15341716/ce3b45a1-daac-415c-b81b-cd7d77aed5d8" width="30%" style="max-width: 150px;">
 </p>
 
 
@@ -10,7 +10,9 @@
 - 🌱 I’m currently learning docker
 - 👯 I’m looking to collaborate on spreading the use of opensource LLM techs to EU research support
 - 🤔 I’m looking for help with developing the EU wide safe and opensource use of LLM in academia.
+- 🎒 I've background both in Academia and Industry mainly in R&D
 - 💬 Contact me on [LinkedIn](https://www.linkedin.com/in/lioneljouvet/)
+- 🧱 I've help founding the makerspace of Odense [The O'Town Garage](https://theotowngarage.com/)
 - 👨‍🔬 Check my designs on [Thingiverse](https://www.thingiverse.com/ecolio314/designs)
 - 👨‍🔬 Ask me about 3D printing
 
