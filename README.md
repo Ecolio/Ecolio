@@ -5,6 +5,7 @@
   <img src="https://github.com/Ecolio/Ecolio/assets/15341716/ce3b45a1-daac-415c-b81b-cd7d77aed5d8" width="30%" style="max-width: 150px;">
 </p>
 
+![EcolioDesign](https://github.com/Ecolio/Ecolio/assets/15341716/8d26edaf-9098-42f4-b6a1-4f97ecc06b79)
 
 - 🔭 I’m currently working on developping tools for research support using NPLs and LLMs
 - 🌱 I’m currently learning docker
