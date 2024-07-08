@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Ecolio/Ecolio/assets/15341716/ce3b45a1-daac-415c-b81b-cd7d77aed5d8" width="100%" style="max-width: 300px;">
+  <img src="https://github.com/Ecolio/Ecolio/assets/15341716/ce3b45a1-daac-415c-b81b-cd7d77aed5d8" width="100%" style="max-width: 150px;">
 </p>
 
 
