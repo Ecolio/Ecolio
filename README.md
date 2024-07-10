@@ -10,8 +10,9 @@
 - 🔭 I’m currently working on developping tools for research support using NPLs and LLMs
 - 🌱 I’m currently learning docker
 - 👯 I’m looking to collaborate on spreading the use of opensource LLM techs to EU research support
-- 🤔 I’m looking for help with developing the EU wide safe and opensource use of LLM in academia.
-- 🎒 I've background both in Academia and Industry mainly in R&D
+- 🤔 I’m looking for help with developing the EU wide [safe and opensource use of LLM in academia](https://www.researchprofessionalnews.com/rr-news-europe-views-of-europe-2024-4-earma-2024-how-we-re-riding-the-ai-wave/).
+- 🎒 I've background both in Academia and Industry mainly in [R&D](https://scholar.google.de/citations?user=sNpfYVEAAAAJ&hl=en)
+- 🦊 I'm a member of [uLynks](https://www.ulynks.io/) at [SDU RIO](https://www.sdu.dk/da/om-sdu/sdurio)
 - 💬 Contact me on [LinkedIn](https://www.linkedin.com/in/lioneljouvet/)
 - 🧱 I've help founding the makerspace of Odense [The O'Town Garage](https://theotowngarage.com/)
 - 👨‍🔬 Check my designs on [Thingiverse](https://www.thingiverse.com/ecolio314/designs)
